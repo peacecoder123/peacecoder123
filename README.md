@@ -20,10 +20,8 @@
 
 - 🎓 B.E. in **AI & Data Science**, Vivekanand Education Society's Institute of Technology (VESIT), Chembur, Mumbai — CGPI: **9**
 - 🏆 Special Winner (3rd Runner-up), **LOOP 1.0 National Hackathon**
-- ✅ Qualified **JEE Advanced**
-- 🐍 **HackerRank Python 4-Star Badge**
 - 🛠️ Currently building full-stack apps that combine web development with practical, real-world use cases (health-tech, academic ops, NGO tooling)
-- 💡 Interested in prompt engineering, LLM integration, and shipping things that actually get used
+- 💡 Interested in AI engineering, LLM integration, Full stack development, system design and shipping things that actually get used
 
 ---
 
@@ -102,8 +100,6 @@
 ### 🏆 Achievements
 
 - 🥉 Special Winner (3rd Runner-up) — LOOP 1.0 National Hackathon
-- ✅ JEE Advanced Qualified
-- ⭐ HackerRank Python 4-Star Badge
 - 🎓 CGPI: 9
 
 ---
