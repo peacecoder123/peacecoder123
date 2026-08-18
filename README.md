@@ -21,7 +21,7 @@
 - 🎓 B.E. in **AI & Data Science**, Vivekanand Education Society's Institute of Technology (VESIT), Chembur, Mumbai — CGPI: **9**
 - 🏆 Special Winner (3rd Runner-up), **LOOP 1.0 National Hackathon**
 - 🛠️ Currently building full-stack apps that combine web development with practical, real-world use cases (health-tech, academic ops, NGO tooling)
-- 💡 Interested in AI engineering, LLM integration, Full stack development, system design and shipping things that actually get used
+- 💡 Interested in AI engineering, LLM integration, full-stack development, system design, and shipping things that actually get used
 
 ---
 
@@ -80,8 +80,20 @@
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=peacecoder123&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://streak-stats.demolab.com/?user=peacecoder123&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacecoder123&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=peacecoder123&hide_border=true&area=true" /> </p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peacecoder123&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=peacecoder123&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacecoder123&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peacecoder123&hide_border=true&area=true" />
+</p>
 
 ---
 
