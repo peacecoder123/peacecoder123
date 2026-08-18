@@ -80,20 +80,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peacecoder123&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=peacecoder123&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacecoder123&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peacecoder123&hide_border=true&area=true" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=peacecoder123&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://streak-stats.demolab.com/?user=peacecoder123&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacecoder123&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=peacecoder123&hide_border=true&area=true" /> </p>
 
 ---
 
