@@ -18,6 +18,63 @@
 
 ### 🚀 About Me
 
+# Hi 👋, I'm Radhe
+
+### Python Backend & AI Developer | FastAPI | PostgreSQL | Docker
+
+I build practical full-stack applications, backend systems, AI-powered workflows, and deployment-ready software.
+
+### What I Build
+
+* FastAPI REST APIs
+* PostgreSQL database systems
+* AI and LLM integrations
+* Business automation
+* React + FastAPI applications
+* Dockerized applications
+* CI/CD pipelines
+* Cloud deployments
+
+### Featured Projects
+
+**OmniSync**
+Academic operations platform built with React, FastAPI, PostgreSQL, JWT and Docker.
+
+**OmniShield**
+Real-time monitoring and forecasting platform using FastAPI, PostgreSQL, WebSockets and Prophet.
+
+**NGO Support Application**
+Operational software developed around real-world NGO workflows.
+
+### Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, Dart, SQL
+
+**Backend:** FastAPI, Node.js, Express, SQLAlchemy
+
+**Frontend:** React, Vite
+
+**Database:** PostgreSQL
+
+**AI/ML:** LLM APIs, AI automation, Prophet
+
+**DevOps:** Docker, GitHub Actions, Vercel
+
+### Freelance Services
+
+* Backend/API development
+* FastAPI + PostgreSQL development
+* AI/LLM integration
+* Dockerization and deployment
+* Backend debugging
+* CI/CD setup
+* Automation
+
+### Contact
+Email: radhewankhade2005@gmail.com
+Available for freelance backend, AI automation, and deployment projects.
+
+
 - 🎓 B.E. in **AI & Data Science**, Vivekanand Education Society's Institute of Technology (VESIT), Chembur, Mumbai — CGPI: **9**
 - 🏆 Special Winner (3rd Runner-up), **LOOP 1.0 National Hackathon**
 - 🛠️ Currently building full-stack apps that combine web development with practical, real-world use cases (health-tech, academic ops, NGO tooling)
